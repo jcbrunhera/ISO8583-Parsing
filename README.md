@@ -3,7 +3,6 @@ an iso8583 message parsing
 
 
 // Simple ISO8583 Parser Class
-// Author: jc brunhera
 // jcbrunhera@gmail.com
 
 
